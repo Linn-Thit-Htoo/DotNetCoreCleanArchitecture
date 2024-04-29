@@ -1,5 +1,5 @@
 ﻿using Blog.Application.Interfaces.Repositories.Blog;
-using Blog.Application.Interfaces.Repositories.Wrappers;
+using Blog.Domain.Interfaces.Repositories.Wrappers;
 using Blog.Infrastructure.Implementations.Repositories.Blog;
 
 namespace Blog.Infrastructure.Implementations.Repositories.Wrappers

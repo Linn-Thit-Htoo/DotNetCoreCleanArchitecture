@@ -1,4 +1,4 @@
-﻿using Blog.Application.Interfaces.Repositories.Wrappers;
+﻿using Blog.Domain.Interfaces.Repositories.Wrappers;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Blog.Presentation.Controllers

@@ -1,6 +1,6 @@
 ﻿using Blog.Application.Interfaces.Repositories.Blog;
 
-namespace Blog.Application.Interfaces.Repositories.Wrappers
+namespace Blog.Domain.Interfaces.Repositories.Wrappers
 {
     public interface IRepositoryWrapper
     {
